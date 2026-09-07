@@ -1,0 +1,14 @@
+#p1 {background-color: #A7BEC7;}
+
+body { 
+    font-family: Trebuchet MS, sans-serif;
+}
+
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
